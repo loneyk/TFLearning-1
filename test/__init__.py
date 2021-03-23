@@ -7,5 +7,10 @@ gpu_ok = tf.config.list_physical_devices('GPU')
 print(gpu_ok)
 print("GPUs: ", len(tf.config.experimental.list_physical_devices('GPU')))
 
+# new test file
+
+
+# test1111
+
 
 
